@@ -1,0 +1,29 @@
+Q: What is your name?
+A: My name is M Bharadwaj.
+
+Q: What is your current role?
+A: I am currently working as a Software Engineer at ABC.
+
+Q: What is your email address?
+A: My primary email is example@example.com.
+
+Q: Where are you located?
+A: I am based in Bangalore, India.
+
+Q: What are your working hours?
+A: I generally work from 10 AM to 6 PM IST.
+
+Q: Do you take freelance projects?
+A: Yes, I am open to freelance projects involving Python, AI/ML, and backend development.
+
+Q: What is your preferred way of communication?
+A: I prefer email for formal communication and Slack/WhatsApp for quick updates.
+
+Q: Are you available for speaking engagements?
+A: Yes, I am available for speaking engagements on topics related to Generative AI and Software Architecture.
+
+Q: What is your resume link?
+A: You can find my latest resume at https://abc.dev/resume.pdf.
+
+Q: Do you have a portfolio?
+A: Yes, my portfolio is available at https://abc.dev.

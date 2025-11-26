@@ -1,0 +1,37 @@
+# Python Standard Libraries
+python-dotenv
+
+# Google Cloud & API Libraries
+google-api-python-client[drive]
+google-auth-httplib2
+google-auth-oauthlib
+google-cloud-firestore
+
+# LLM & AI Service Libraries
+groq
+
+# LangChain Core & Integrations
+langchain
+langchain-core
+langchain-google-genai
+langchain-pinecone
+
+# Vector Store
+pinecone-client
+
+# Other Tools & Utilities
+tavily-python
+pydantic
+
+fastapi
+fastapi-sso
+uvicorn
+uvicorn[standard]
+
+pytz
+beautifulsoup4
+
+
+python-jose[cryptography] p
+ython-multipart 
+google-auth-oauthlib
